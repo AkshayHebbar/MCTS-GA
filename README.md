@@ -11,15 +11,13 @@ In this research, we investigate the possibility of applying a search strategy t
 
 # References
 
-[1] Smith JW, Everhart JE, Dickson WC, Knowler WC, Johannes RS. Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus. Proc Annu Symp Comput Appl Med Care. 1988 Nov 9:261–5.
-[2] Goldberg, David E. Genetic algorithms. pearson education India, 2013.
-[3] Silver, D., Schrittwieser, J., Simonyan, K. et al. Mastering the game of Go without human knowledge. Nature 550, 354–359 (2017).I.
-[4] K. W. Lee and H. N. Lam, "Optimising neural network weights using
-genetic algorithms: a case study," Proceedings of ICNN'95 - International Conference on Neural Networks, Perth, WA, Australia, 1995, pp. 1384- 1388 vol.3.
-[5] Sheta, Alaa & Braik, Malik & Aljahdali, Sultan. (2012). Genetic Algorithms: A tool for image segmentation. Proceedings of 2012 International Conference on Multimedia Computing and Systems, ICMCS 2012. 84-90. 10.1109/ICMCS.2012.6320144.
-[6] G. Lo Bosco, "A genetic algorithm for image segmentation," Proceedings 11th International Conference on Image Analysis and Processing, Palermo, Italy, 2001, pp. 262-266.
-[7] K. Rocki and R. Suda, "Large-Scale Parallel Monte Carlo Tree Search on GPU," 2011 IEEE International Symposium on Parallel and Distributed Processing Workshops and Phd Forum, Anchorage, AK, USA, 2011, pp. 2034-2037, doi: 10.1109/IPDPS.2011.370.
-[8] A. Lambora, K. Gupta and K. Chopra, "Genetic Algorithm- A Literature Review," 2019 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon), Faridabad, India, 2019, pp. 380-384, doi: 10.1109/COMITCon.2019.8862255.
-[9] Jonathan C.T. Kuo, "
-Genetic Algorithm in Artificial Neural Network and its Optimization methods", "medium.com", Web, 2020.
+[1] Smith JW, Everhart JE, Dickson WC, Knowler WC, Johannes RS. Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus. Proc Annu Symp Comput Appl Med Care. 1988 Nov 9:261–5. \
+[2] Goldberg, David E. Genetic algorithms. pearson education India, 2013.\
+[3] Silver, D., Schrittwieser, J., Simonyan, K. et al. Mastering the game of Go without human knowledge. Nature 550, 354–359 (2017).I. \
+[4] K. W. Lee and H. N. Lam, "Optimising neural network weights using genetic algorithms: a case study," Proceedings of ICNN'95 - International Conference on Neural Networks, Perth, WA, Australia, 1995, pp. 1384- 1388 vol.3. \
+[5] Sheta, Alaa & Braik, Malik & Aljahdali, Sultan. (2012). Genetic Algorithms: A tool for image segmentation. Proceedings of 2012 International Conference on Multimedia Computing and Systems, ICMCS 2012. 84-90. 10.1109/ICMCS.2012.6320144. \
+[6] G. Lo Bosco, "A genetic algorithm for image segmentation," Proceedings 11th International Conference on Image Analysis and Processing, Palermo, Italy, 2001, pp. 262-266. \
+[7] K. Rocki and R. Suda, "Large-Scale Parallel Monte Carlo Tree Search on GPU," 2011 IEEE International Symposium on Parallel and Distributed Processing Workshops and Phd Forum, Anchorage, AK, USA, 2011, pp. 2034-2037, doi: 10.1109/IPDPS.2011.370. \
+[8] A. Lambora, K. Gupta and K. Chopra, "Genetic Algorithm- A Literature Review," 2019 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon), Faridabad, India, 2019, pp. 380-384, doi: 10.1109/COMITCon.2019.8862255. \
+[9] Jonathan C.T. Kuo, "Genetic Algorithm in Artificial Neural Network and its Optimization methods", "medium.com", Web, 2020. \
 [10] SagarSharma,"MCTS","https://towardsdatascience.com/",Web,2018. 
